@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/c8fa08bd51604aa79ae475c4787dd3b6?sid=c26eb703-2dde-455b-a49a-60794facb8e0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting accustomed to using certain functions in JavaScript, such as reduce() and filter(), was initially challenging and required reading the recommended materials to fully understand and effectively implement them.
 
 ## License
 
